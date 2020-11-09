@@ -34,7 +34,7 @@ operation. If the users last entry was an operation the display will be
 updated to the value that preceded it.
 -   [x] User can click the 'AC' button to clear all internal work areas and
 to set the display to 0.
--   [ ] User can see 'ERR' displayed if any operation would exceed the 
+-   [x] User can see 'ERR' displayed if any operation would exceed the 
 8 digit maximum.
 
 ## Bonus features
